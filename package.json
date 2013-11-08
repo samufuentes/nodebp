@@ -8,7 +8,7 @@
     "jade": "0.20.0",
     "handlebars":"1.0.12",
     "mongoose": "3.8.0",
-    "socket.io": "0.9.0"
+    "socket.io": "0.9.16"
   },
   "devDependencies": {
     "vows": "0.5.x",
